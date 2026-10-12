@@ -1,0 +1,1 @@
+Local AI systems keep private data on-device.\nRAG connects documents to language models.\n
